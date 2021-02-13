@@ -1,6 +1,6 @@
 # librarysoft
 
-Sqlite3 ve PyQt5 kütüphaneleri ile hazırladığım basit kütüphane yazılımı. Üzerinde bir kaç düzenleme yapılarak küçük işler için kullanılabilir. 
+Sqlite3 ve PyQt5 kütüphaneleri ile hazırladığım basit kütüphane yazılımı. Üzerinde bir kaç düzenleme yapılarak küçük işler için kullanılabilir. Library.py dosyasını çalıştırıp test edebilirsiniz.  
 
 Temel Özellikler;
 Kitap Zimmetleme/Teslim Alma
