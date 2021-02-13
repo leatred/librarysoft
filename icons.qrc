@@ -1,0 +1,9 @@
+<!DOCTYPE RCC><RCC version="1.0">
+<qresource>
+<file>icons/books.png</file>
+    <file>icons/detail.png</file>    
+    <file>icons/operations.png</file>
+    <file>icons/settings.png</file>
+    <file>icons/student.png</file>
+</qresource>
+</RCC>
